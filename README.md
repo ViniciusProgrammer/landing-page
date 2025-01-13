@@ -15,3 +15,5 @@ Este é um projeto de landing page para um restaurante, desenvolvido para propor
 Você pode visualizar a landing page ao vivo acessando o seguinte link:
 
 [Landing Page - Restaurante](https://viniciusprogrammer.github.io/landing-page/)
+
+### Para uma experiência mais imersiva com o site recomenda-se o uso de um PC Desktop
